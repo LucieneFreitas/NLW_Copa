@@ -35,7 +35,7 @@ Calendário da Copa é um projeto com demonstração de algumas datas dos jogos 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](lucienefreitas.github.io/NLW_Copa/). 
+Você pode visualizar o layout do projeto através do link [🔗 Calendario Copa 2022 ](https://lucienefreitas.github.io/NLW_Copa/)
 
 ## Licença:
 
